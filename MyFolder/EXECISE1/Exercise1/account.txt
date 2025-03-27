@@ -1,2 +1,0 @@
-Abaad,password1
-Abaad1,password2
